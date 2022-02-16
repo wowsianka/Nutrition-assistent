@@ -1,0 +1,14 @@
+DEBUG:root:Question: Ile kalorii ma ananas Answer: ananas ma 33 kilo kalorii na 100 gram
+DEBUG:root:Question: Ile węglowodanów ma ananas Answer: ananas ma 0.2 gramów węglowodanów na 100 gram
+DEBUG:root:Question: Ile białka ma ananas Answer: ananas ma 7.8 gramów białka na 100 gram
+DEBUG:root:Question: ile tłuszczów ma ananas Answer: ananas ma 0.0 gramów tłuszczu na 100 gram
+DEBUG:root:Question: Ile kalorii ma ananas w 20 gramach Answer: ananas ma 6.6 kilo kalorii na ['20'] gramy
+DEBUG:root:Question: ile białka posiada ananas w 2 kg Answer: ananas ma 156.0 gramów białka na ['2'] kilogramy
+DEBUG:root:Question: Ile kalorii ma kotlet schabowy Answer: kotlet schabowy ma 351 kilo kalorii na 100 gram
+DEBUG:root:Question: Ile węglowodanów mają banany Answer: Nie ma takiego jedzenia w bazie
+DEBUG:root:Question: Ile kalorii mają banany Answer: Nie ma takiego jedzenia w bazie
+DEBUG:root:Question: Ile tłuszczu ma chleb razowy Answer: Nie ma takiego jedzenia w bazie
+DEBUG:root:Question: Ile tłuszczu ma chleb pszenny Answer: chleb pszenny ma 1.4 gramów tłuszczu na 100 gram
+DEBUG:root:Question: Ile kalorii ma Mars Answer: mars ma 451 kilo kalorii na 100 gram
+DEBUG:root:Question: Ile kalorii ma Mars w 15 dkg Answer: mars ma 676.5 kilo kalorii na ['15'] dekagramy
+DEBUG:root:Question: ile tłuszczów ma sok marchwiowy Answer: sok marchwiowy ma 0.1 gramów tłuszczu na 100 gram

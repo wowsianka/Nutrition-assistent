@@ -1,0 +1,614 @@
+PRODUKT,KALORIE,BIAŁKO,TŁUSZCZE,WÄ‰GLOWODANY
+Actimel,88, 2.7,1.5, 16.0 
+Agrest,60, 1.2,0.9, 11.8 
+Ananas,33, 0.2,0.0, 7.8 
+Arbuz, 15, 0.3,0.1, 3.2 
+Awokado, 160,2.0,15.3,7.4 
+Babka biszkoptowa,340,8.2,4.3, 67.1 
+Bagietki francuskie,  282,7.9,1.7, 60.1 
+Banan, 95, 1.0,0.3, 23.5 
+Baranina udziec, 232,18.0  18.0,0.0 
+Barszcz czerwony zabielany, 32, 2.0,1.4, 3.3 
+Bounty,  448,4.2,25.2,56.7 
+Knoppers,528,8.0,32.0,52.0 
+Mars, 451,3.6,18.2,68.9 
+Milky Way,  448,3.6,16.2,71.8 
+Nestle Lion,491,7.4,28.9,52.6 
+Snickers,497,9.7,28.2,52.6 
+Twix, 487,5.3,23.2,64.2 
+Bigos, 119,5.1,9.9, 3.9 
+Bitki wieprzowe,  195,10.4  16.1,2.6 
+Bitki wieprzowe w jarzynach,198,10.7  16.0,4.3 
+Brukselka, 37,4.7,  0.5,  8.7 
+Brukselka z wody,110,  4.2,  7.1,  12.0 
+Brzoskwinia,  46,1.0,  0.2,  11.9 
+Brzoskwinia w syropie, 73,0.4,  0.1,  18.2 
+Budyń czekoladowy,  95,2.8,  2.1,  16.2 
+Budyń waniliowy, 91,2.5,  2.0,  15.7 
+Bułka rahamka,  258,  8.2,  1.7,  56.9 
+Bułka kajzerka,  226,  7.5,  3.6,  59.4 
+Bułka maślana,326,  7.7,  5.9,  61.8 
+Bułka tarta,  363,  10.4, 2.1,  75.6 
+Bułka pszenna. zwykła,  272,  7.3,  1.5,  58.5 
+Bułka wrocławska,293,  2.7,  0.4,  4.7 
+Burak,38,1.8,  0.1,  9.5 
+Buraki mrożone,  34,1.6,  0.1,  8.6 
+Buraki zasmażane,83,1.8,  5.5,  8.7 
+Cebula,37,1.4,  0.4,  6.9 
+Cielęcina. udziec,108,  19.9, 3.1,  0.0 
+Chałka,252,  5.8,  4.4,  47.0 
+Chałwa,531,  8.0,  31.0, 55.0 
+Cheesburger,278,  12.6, 11.8, 30.3 
+Chipsy bekonowe,  537,  5.9,  38.0, 52.2 
+Chipsy paprykowe, 549,  6.0,  40.0, 50.4 
+Chipsy solone, 552,  5.6,  40.7, 49.9 
+Cielęcina. bez kości,108,  19.9, 3.1,  0.0 
+Chleb baltonowski,246,  5.9,  1.5,  55.9 
+Chleb chrupki, 353,  8.7,  2.4,  78.9 
+Chleb raham,  226,  7.6,  1.7,  49.4 
+Chleb mazowiecki, 248,  6.3,  1.4,  56.3 
+Chleb mieszany słonecznikowy,  246,  6.4,  4.5,  49.2 
+Chleb praski,  244,  5.7,  1.3,  56.2 
+Chleb pszenny, 249,  6.8,  1.4,  56.0 
+Chleb staropolski,219,  5.0,  1.7,  50.5 
+Chleb wiejski, 239,  5.8,  1.3,  55.1 
+Chleb zwykły,  245,  5.4,  1.3,  57.0 
+Chleb praski,  244,  5.7,  1.3,  56.2 
+Chleb żytni jasny,241,  4.0,  1.3,  57.1 
+Chleb żytni jasny mleczny,  253,  4.8,  1.8,  58.3 
+Chleb żytni pełnoziarnisty, 237,  6.7,  1.8,  53.9 
+Chleb żytni razowy,  223,  5.6,  1.7,  51.5 
+Chleb żytni razowy na miodzie, 234,  5.3,  1.6,  54.2 
+Chleb żytni wileński,225,  4.4,  1.5,  52.3 
+Chrupki kukurydziane,352,  8.9,  3.0,  78.9 
+Chrzan,67,4.5,  0.6,  18.1 
+Ciastka francuskie,  432,  5.0,  26.8, 44.8 
+Ciastka karpatki, 449,  4.7,  30.9, 39.1 
+Ciastka napoleonki,  348,  5.9,  17.0, 43.6 
+Ciastka tortowe z owocami,  276,  3.2,  9.0,  47.2 
+Ciasto drożdżowe, 290,  7.4,  8.2,  47.7 
+Ciasto kruche podstawowe,429,  5.2,  23.8, 49.9 
+Ciasto naleśnikowe bez piany,  174,  5.9,  4.3,  28.4 
+Ciasto naleśnikowe biszkoptowe,187,  8.3,  6.0,  25.5 
+Cielęcina w potrawce,103,  13.5, 4.0,  4.0 
+Cielęcina. łopatka,  106,  19.9, 2.8,  0.0 
+Cielęcina. udziec,108,  19.9, 3.1,  0.0 
+Coca-cola,42,0.0,  0.0,  10.4 
+Cukierki irysy,  421,  4.3, 10.7, 76.1 
+Cukierki owocowe,374,  0.3, 0.5,  92.0 
+Cukinia, 15,1.2, 0.1,  3.2 
+Cukierki owocowe,374,  0.3, 0.5,  92.0 
+Cykoria, 21,1.7, 0.2,  4.1 
+Cytryna, 36,0.8, 0.3,  9.5 
+Czarne jagody,45,0.8, 0.6,  12.2 
+Czekolada biała, 530,  7.7, 38.4, 51.0 
+Czekolada deserowa, 531,  5.3, 28.9, 64.0 
+Czekolada gorzka,554,  6.7, 34.3, 56.6 
+Czekolada kawowa,526,  5.5, 29.0, 62.7 
+Czekolada mleczna,  549,  9.8, 32.5, 54.7 
+Czekolada mleczna z orzechami,539,  8.6, 30.9, 57.3 
+Czekolada nadziewana,450,  3.9, 17.6, 68.8 
+Ferrero Rocher, 562,  9.0, 40.2, 41.0 
+Golden Nut,  576,  6.0, 39.0, 50.2 
+Mon Cheri,421,  3.2, 19.7, 57.8
+Raffaello,600,  9.7, 46.6, 35.4 
+Toffifee,535,  6.0, 31.0, 58.0 
+Czereśnie, 55,1.0, 0.5,  11.6 
+Czosnek, 144,  6.2, 0.5,  28.8 
+Danonki,87,2.8  1.6,15.4 
+Delicje, 376,  3.5  8.4,71.5 
+Margaryna, 496,  0.0  55.0,  0.2 
+Deser ryżowy jabłkowy,  134,  2.8  3.0,23.9 
+Deser ryżowy waniliowy, 133,  3.0  2.9,23.5 
+Deser czekoladow. Monte,195,  2.8  13.3,  15.9 
+Deser twarogowy kakaowy,156,  13.9  6.2,  11.2 
+Deser twarogowy truskawkowy,170,  11.0  5.8,  18.3 
+Dorsz świeży,78,17.7  0.7,  0.0 
+Dorsz świeży. filet, 78,17.7  0.7,  0.0 
+Dorsz w jarzynach,117,  15.6  4.9,  3.9 
+Dorsz wędzony, 94,22.1  0.5,  0.0 
+Dorsz z rusztu,172,  22.1  9.1,  0.6 
+Dorsz filety po recku,152,  10.6  10.8, 4.6 
+Dorsz filety smażone panierowane,273,  19.1  0.7,  0.0 
+Dorsz kotlet mielony,  260,  14.9  17.8, 10.9 
+Dorsz pulpety,112,  14.2  2.6,  8.8 
+Dorsz sałatka,187,  9.8  13.9,  7.2 
+Drażetki Tic Tac, 390,  0.0  0.0,97.5 
+Drożdze piekarskie,  132,  11.3  2.0,  14.5 
+Drożdżówka,  321,  6.0  9.0,50.0 
+Dynia, 28,1.3  0.3,7.7 
+Dynia z pomidorami,  44,1.2  2.4,6.5 
+Dynia. pestki, 556,  24.5  45.8, 18.0 
+Dżem niskosłodzony,  163,  0.5  0.0,63.0 
+Dżem wysokosłodzony, 257,  0.5  0.2,63.4 
+Eklerki. ciastka, 301,  5.0  9.0,50.0 
+Eklerki z bitą śmietaną,317,  5.8  18.0,  33.5 
+Endywia,  17,1.8  0.6,1.0 
+produkt,  kalorie,  białko tłuszcze,węglowodany
+Familijne. wafle, 533,7.1,  29.6, 59.5 
+Fasola biała. suche nasiona,288,21.4  1.6, 61.6
+Fasola cięta. konserwowa,16, 1.5,  0.2,  4.5 
+Fasola szparagowa,27, 2.4,  0.2,  7.6 
+Fasolka flageolet konserwowa,  61, 6.3,  0.2,  15.0 
+Fasolka po bretońsku,141,8.0,  6.6,  15.9 
+Fasolka szparagowa,  97, 2.9,  6.9,  10.3 
+Fasolka szparagowa. mrożona,24, 2.2,  0.2,  6.8 
+Ferrero Rocher. czekoladki, 562,9.0,  40.2, 41.0 
+Figi suszone,290,3.6,  1.2,  78.0 
+Flaki wołowe suche,  84, 16.0  2.2, 0.0 
+Flaki wołowe na rosole, 71, 4.6,  4.2,  3.7 
+Flora. margaryna,328,0.1,35.0,  3.2 
+Frytki mrożone,  172,2.5,5.5,28.0 
+Frytki z frytkownicy,  252,3.0,12.0,  33.0 
+Frytki z piekarnika,231,3.5,5.0,37.0 
+Galaretka z nóżek wieprzowych,202,16.9  14.9, 0.8 
+Gęś. tuszka,339,14.1  31.8, 0.0 
+Gin. alkohol, 225,0.0,0.0,0.0 
+Golden Nut. czekoladki,576,6.0,39.0,  50.2 
+Gołąbki tradycyjne, 108,3.6,6.7,10.0 
+Granat,  65, 2.4,0.4,13.2 
+Grejpfrut,  36, 0.6,0.2,9.8 
+Groch. suche nasiona,  293,23.8  1.4,  60.2 
+Groszek zielony, 75, 6.7,0.4,17.0 
+Groszek zielony. konserwowy,  63, 4.9,0.2,15.8 
+Groszek zielony mrożony,72, 6.4,0.4,16.3 
+Groszek zielony z masłem,  100,3.7,6.8,9.3 
+Gruszka, 54, 0.6,0.2,14.4 
+Gruszka suszona, 329,0.7,0.5,80.4 
+Gruszki w sosie waniliowym,151,1.6,1.1,34.8 
+Gulasz wołowy,148,14.0  9.2,  2.6 
+Grześki. wafle,  550,8.5,34.5,  51.5 
+Halibut biały. świeży,  98,20.1  1.9,  0.0 
+Hamburger, 268,11.4  9.5, 34.3 
+Hamburger BicMac McDonald,273,11.4  15.1,22.8 
+Hamburger McChicken McDonald,295,9.7  15.9, 28.3 
+Herbata bez cukru,0,0.1  0.0,0.0 
+Herbatniki,437,8.2  11.0, 76.8 
+Herbatniki Corso, 440,5.0  17.2, 67.1 
+Herbatniki kakaowe,  474,6.9  22.3, 62.9 
+Herbatniki kokosowe, 473,6.4  25.2, 59.8 
+Herbatniki sezamowe, 503,8.1  28.6, 55.7 
+Herbatniki w czekoladzie, 489,6.3  24.0, 63.1 
+Herbatniki z cukrem, 460,6.7  17.2, 70.7 
+Herbatniki z nadzieniem owocowym,  389,3.8  16.1, 58.6 
+Homar,  85,18.8  0.9,  0.5 
+Indyk. skrzydełko,168,  16.5  11.4,0.0 
+Irysy. cukierki,  418,  4.3,  10.7, 76.1 
+Jabłko pieczone, 93,0.3,  1.6,20.8 
+Jabłko suszone,  238,  2.1,  2.1,62.3 
+Jabłko w kruchym cieście,  348,  4.1,  17.4,  45.3 
+Jagnięcina,126,  20.4, 4.9,0.0 
+Jagody,  62,1.1,  0.9,12.2 
+Jagodowy dżem. niskosłodzony, 153,  0.3,  0.2,38.2 
+Jagodzianki,  314,  7.1,  5.4,60.6 
+Jajko kurze. białko,46,10.8, 0.0,0.8 
+Jajko kurze. całe,  150,  12.5, 10.7,  1.0 
+Jajko sadzone,181,  10.1, 15.2,  0.9 
+Jajko smażone. jajecznica, 131,  10.0, 9.7,0.8 
+Jarmuż,  29,3.3,  0.7,6.1 
+Jarzyny mrożone, 30,2.8,  0.3,7.5 
+Jeżyki. ciastka, 457,  5.0,  21.3,  61.2 
+Jeżyny,  71,1.2,  0.4,15.7 
+Jogurt bananowy 1.5%,70,3.7,  1.5,10.4 
+Jogurt jagodowy 1.5%,62,3.7,  1.5,8.8 
+Jogurt morelowy 1.5%,63,4.2,  0.0,6.2 
+Jogurt naturalny 0.0%,  42,3.7,  1.5,8.8 
+Jogurt naturalny 2.0%,  60,4.3,  2.0,6.2 
+Jogurt owocowy 2.7%,99,3.3,  2.7,13.7 
+Jogurt truskawkowy 1.5%,60,3.7,  1.5,8.2 
+Jogurt wiśniowy 1.5%,61,3.7,  1.5,8.2 
+Kabanosy,326,  27.4,  24.3, 0.0 
+Kabanosy z kurczaka,247,  22.8,  17.4, 0.1 
+Kaczka. tuszka,  308,  13.5,  28.6, 0.0 
+Kakako w proszku 16%,  448,  18.2,  21.7, 50.6 
+Kalafior,22,2.4,0.2,  0.5 
+Kalafior mrożony,20,2.2,0.2,  4.5 
+Kalafior z wody, 33,2.0,6.8,  5.5 
+Kalarepa,29,2.2,0.3,  6.5 
+Kapusta biała,29,1.7,0.2,  7.4 
+Kapusta biała zasmażana,69,1.6,4.7,  7.2 
+Kapusta czerwona,27,1.9,0.2,  6.7 
+Kapusta kwaszona,12,1.1,0.2,  3.4 
+Kapusta pekińska,12,1.2,0.2,  3.2 
+Kapusta włoska,  38,3.3,0.4,  7.8 
+Kapuśniak z kapusty kwaszonej,21,1.4,1.2,  1.6 
+Kapuśniak z kapusty słodkiej, 31,0.7,2.1,  3.2 
+Karmelki nadziewane,378,  0.3,0.5,  92.0 
+Karmelki twarde, 399,  0.0,0.0,  98.2 
+Karp świeży,110,  18.0,  4.2,  0.0 
+Karp z wody,102,  16.0, 3.7,  2.0 
+Kasza ryczana,  336,  12.6, 3.1,  69.3 
+Kasza ryczana na sypko,132,  4.5,  2.3,  25.0 
+Kasza jaglana,346,  10.5, 2.9,  71.6 
+Kasza jęczm. na mleku, 63,2.6,  2.2,  8.5 
+Kasza jęczm. perłowa,  327,  6.9,  2.2,  75.0 
+Kasza jęczm. pęczak,334,  8.4,  2.0,  74.9 
+Kasza manna,348,  8.7,  1.3,  76.7 
+Kasza manna na mleku,  67,2.7,  2.1,  9.3 
+Kasza mana na wywarze jarzynowym,21,0.5,  0.8,  3.4 
+Kasza perłowa na sypko,115,  2.2,  2.0,  23.6 
+Kaszanka z kurczaka,204,  9.8,  11.7, 16.4 
+Kawa bez cukru,  2, 0.2,  0.0,  0.3 
+Kefir 2%,51,3.4,  2.0,  4.7 
+Keks bakaliowy,  384,  6.4,  17.6, 53.5 
+Ketchup, 93,27.4, 24.3, 0.0 
+Kiełbasa jałowcowa, 236,  19.0, 17.9, 0.1 
+Kiełbasa krakowska sucha,  323,  25.6, 24.8, 0.0 
+Kiełbasa mazurska,  129,  14.8, 7.7,  0.1 
+Kiełbasa mortadela, 205,  12.0, 17.7, 0.0 
+Kiełbasa myśliwska sucha,  291,  27.8, 20.1, 0.0 
+Kiełbasa parówka,323,  11.0, 31.5, 0.0 
+Kiełbasa podlaska,  232,  20.7, 16.7, 0.1 
+Kiełbasa podsuszana,247,  17.3, 19.6, 0.9 
+Kiełbasa podwawelska,  247,  17.3, 19.6, 0.9 
+Kiełbasa szynk. z indyka,  88,17.2, 2.0,  0.2 
+Kiełbasa szynk. z kurcz.,  110,  16.2, 5.0,  0.0 
+Kiełbasa śląska, 210,  18.4, 15.3, 0.0 
+Kiełbasa toruńska,  263,  20.9, 20.1, 0.0 
+Kiełbasa zwyczajna, 209,  17.6, 15.6, 0.0 
+Kiełbasa żywiecka,  315,  20.3, 26.3, 0.0 
+Kisiel porzeczkowyy,88,0.3,  0.1,  23.3 
+Kisiel waniliowy,121,  3.3,  4.5,  16.6 
+Kiszka jęczmienna,  194,  8.5,  12.6, 13.0 
+Kiszka krwista,  404,  14.2, 35.0, 9.2 
+Kiszka pasztetowa,  384,  12.5, 35.7, 4.3 
+Kiwi, 56,0.9,  0.5,  13.9 
+Kiwi. dżem niskosł.,154,  0.4,  0.2,  37.8 
+Klopsiki cielęce mielone,  250,  16.2, 14.6, 14.3 
+Klopsiki mielone,272,  13.5, 17.5, 15.9 
+Kluski kładzione,165,  5.1,  1.3,  33.8 
+Kluski lane,93,4.1,  2.0,  14.9 
+Kluski lane na mleku,  70,3.6,  3.1,  6.8 
+Knedle ze śliwkami, 161,  2.7,5.9,  25.8 
+Kompot z jabłek, 51,0.2,0.1,  13.2 
+Kompot z wiśni,69,0.2,0.1,  16.9 
+Koncentrat pomid. 30%, 92,5.6,1.5,  16.2 
+Koper,26,2.8,0.4,  6.1 
+Kopytka, 143,  4.0,0.7,  31.2 
+Kotlet cielęcy panier.,365,  27.1,  21.3, 17.4 
+Kotlet drobiowy panier.,  248,  19.7,  15.7, 7.6 
+Kotlet drobiowy soute, 241,  20.3,  16.5, 3.3 
+Kotlet drob. mielony,  382,  19.9,  27.8, 14.3 
+Kotlet mielony,284,  13.0,  21.1, 11.8 
+Kotlet schabowy, 351,  19.0,  24.1, 15.9 
+Kotlety z jaj, 275,  7.9,22.7, 10.8 
+Kotlety ziemniaczane,  241,  4.3,12.8, 29.3 
+Krem z ziel. roszku,  63,3.1,3.8,  5.9 
+Krupnik z kaszy rycz.,43,1.7,1.2,  7.2 
+Krupnik z kaszy jęcz., 40,1.5,0.9,  7.4 
+Krupnik z ryżu,43,1.5,1.1,  7.6 
+Kukurydza,  110,  3.7,1.5,  23.4 
+Kukurydza konserwowa,  102,  2.9,1.2,  23.6 
+Kura w alarecie,192,  27.3,  8.9,  1.2 
+Kura. tuszka,  202,  18.5,  14.3, 0.0 
+Kurczak fasz. pieczony,199,  20.5,  11.9, 2.8 
+Kurczak otowany w jarz., 99,7.6,6.4,  4.6 
+Kurczak pieczony,179,  16.4,  12.7, 0.1 
+Kurczak. piersi, 99,21.5,  1.3,  0.0 
+Kurczak. udko, 158,  16.8,  10.2, 0.0 
+Kurczak. skrzydełko,186,  19.2,  12.2, 0.0 
+Kurczak. tuszka, 158,  18.6,  9.3,  0.0 
+Kurczak. żoładek,114,  18.2,  4.2,  0.6 
+Kurka świeża. rzyb,23,1.0,0.4,  3.8 
+Kuropatwa. tuszka,  112,  24.3,  1.4,  0.5 
+Landrynki Brando,  390,  0.0,0.0,  96.6 
+Likier Advocat,280,  4.4,6.0,  28.4 
+Likier Curacao,319,  0.0,0.0,  27.6 
+Lody bajaliowe,133,  2.2,7.2,  14.6 
+Lody czekoladowe,  128,  2.1,6.1,  16.1 
+Lody orzechowe,135,  2.4,8.0,  13.4 
+Lody owocowe,  114,  1.5,5.3,  15.0 
+Lody śmietankowe,  135,  1.7,7.6,  15.2 
+Lody waniliowe,120,  1.8,6.5,  13.6 
+Łopatka cielęca,  105, 19.5,  25.0,  0.0 
+Łopatka wieprzowa,259, 16.0,  21.7,  0.0 
+Łosoś smażony saute,  379, 21.1,  31.4,  4.1 
+Łosoś świeży,  201, 19.9,  13.6,  0.0 
+Łosoś wędzony, 162, 21.5,  8.4,0.0 
+Łosoś z rusztu,283, 20.7,  22.3,  0.6 
+Maggi. przyprawa, 17,2.7,  0.0,  1.5 
+Majonez,  714,  1.3,  79.0, 2.6 
+Mak,478,  20.1, 42.9, 24.7 
+Makaron bezjajeczny, 363,  10.0, 1.6,  78.5 
+Makaron czterojajeczny, 377,  12.0, 3.4,  76.2 
+Makaron dwujajeczny, 373,  11.5, 2.6,  77.4 
+Makaron na mleku, 66,2.9,  2.3,  8.5 
+Makowiec. ciasto, 348,  19.5, 40.8, 24.3 
+Makrela świeża,181,  18.7, 11.9, 0.0 
+Makrela wędzona,  221,  20.7, 15.5, 0.0 
+Makrela. filety z warzywami,124,  12.0, 7.3,  3.6 
+Makrela. sałatka pikantna,  181,  10.2, 13.2, 6.9 
+Maliny,29,1.3,  0.3,  12.0 
+Mandarynki,  42,0.6,  0.2,  11.2 
+Mango, 73,0.5,  0.3,  17.0 
+Marakuja, 34,2.8,  0.2,  6.2 
+Marchew,  27,1.0,  0.2,  8.7 
+Marchew mrożona,  24,0.9,  0.2,  7.8 
+Marchew z roszkiem, 64,1.7,  3.1,  10.8 
+Marchew zasmażana,69,1.0,  4.8,  8.4 
+Margaryna Bona,442,  0.0,  50.0, 0.0 
+Margaryna Flora,  531,  0.0,  60.0, 0.0 
+Margaryna Kama,398,  0.0,  45.0, 0.0 
+Margaryna mleczna,710,  0.3,  80.0, 0.4 
+Margaryna Palma,  710,  0.3,  80.0, 0.4 
+Margaryna Rama,621,  0.1,  70.0, 0.4 
+Margaryna Słoneczna, 710,  0.3,  80.0, 0.4 
+Margaryna Tina,442,  0.0,  45.0, 0.0 
+Margaryna zwykła, 710,  0.3,  80.0, 0.4 
+Markizy. ciastka, 483,  5.6,  23.0, 64.3 
+Mars. baton, 451,  3.6,  18.2, 68.9 
+Masło ekstra,735,  0.7,  82.5, 0.7 
+Masło roślinne Nova, 442,  0.0,  50.0, 0.0 
+Masło roślinne zwykłe,  666,  0.3,  75.0, 0.4 
+Masło śmietankowe,659,  1.1,  73.5, 1.1 
+Maślanka 0.5%, 37,3.4,  0.5,  4.7 
+Mąka pszenna typ 500,342,9.2,1.2,  74.9 
+Mąka pszenna typ 550,343,9.6,1.6,  74.1 
+Medaliony z indyka,  247,18.6,  17.9, 3.4 
+Melon, 36, 0.9,0.3,  8.4 
+Mielonka, 171,12.8,  11.7, 3.7 
+Migdały,  572,20.0,  52.0, 20.5 
+Milky Way. baton, 448,3.6,16.2, 71.8 
+Mintaj świeży, 73, 16.6,  0.6,  0.0 
+Mizeria ze śmietaną, 34, 1.0,2.2,  2.8 
+Mleko kozie,68, 3.2,4.1,  4.5 
+Mleko owcze,107,6.0,7.0,  5.1 
+Mleko spożywcze 0.5%,39, 3.5,0.5,  5.1 
+Mleko spożywcze 1.5%,47, 3.4,1.5,  5.0 
+Mleko spożywcze 2.0%,51, 3.4,2.0,  4.9 
+Mleko spożywcze 3.2%,61, 3.3,3.2,  4.8 
+Mleko spożywcze 3.5%,64, 3.3,3.5,  4.8 
+Mleko w proszku odtł.,360,35.7,  0.8,  51.2 
+Mleko w proszku pełne,479,27.0,  24.0, 38.7 
+Mleko zagęszczone niesłodzone, 131,6.6,7.5,  9.4 
+Mleko zagęszczone słodzone, 326,7.5,8.0,  55.3 
+Monte. deser czekoladowey,  195,2.8,13.3, 15.9 
+Morela,47, 0.9,0.2,  11.9 
+Morele suszone,284,5.4,1.2,  72.2 
+Morele. dżem niskosł.,157,0.4,0.1,  38.8 
+Morlinki. parówki,448,3.6,16.2, 71.8 
+Morszczuk świeży, 89, 17.2,  2.2,  0.0 
+Morwa, 48, 1.4,0.4,  9.8 
+Mus jabłkowy,  127,2.2,0.5,  28.7 
+Musli z owocami suszonymi,  325,8.4,3.4,  72.2 
+Musli z rodzynkami i orzechami,375,11.5,  12.7, 62.9 
+Musztarda,162,5.7,6.4,  22.0 
+Naleśniki z kapustą, 147,  3.2,  9.2,  15.2 
+Naleśniki z serem,242,  10.1, 10.3, 27.4 
+Napoleonka. ciastko, 324,  5.0,  16.0, 39.8 
+Napój Coca-cola,42,0.0,  0.0,  10.4 
+Napój Kubuś Multiwitamina, 52,0.0,  0.0,  12.9 
+Napój Mirinda,  52,0.0,  0.0,  12.9 
+Napój mleczny jogurtowy,82,4.0,  1.9,  12.1 
+Napój mleczny kakaowy,  81,3.3,  2.1,  12.1 
+Napój owocowy azowany, 42,0.0,  0.0,  10.3 
+Napój Pepsi Cola, 42,0.0,  0.0,  10.4 
+Napój Red Bull, 45,0.0,  0.0,  11.3 
+Nektar owocowy, 63,0.2,  0.4,  14.6 
+Nektarynka,  53,0.9,  0.2,  11.8 
+Nesquik. kakao. proszek,380,  3.5,  3.0,  84.3 
+Nestle Corn Flakes. płatki kukurydziane,370,  7.3,  0.8,  83.3 
+Nestle Lion. baton,491,  7.4,  22.7, 64.1 
+Nóżki wieprzowe,276,  23.0, 20.4, 0.0 
+Nutella. krem czekoladowy, 45,0.0,  0.0,  11.3 
+Ocet winny,  20,0.0,  0.0,  5.0 
+Ogórek,13,0.7,  0.1,  2.9 
+Ogórek kwaszony,11,1.0,  0.1,  1.9 
+Olej kukurydziany, 884,  0.0,  100.0,0.0 
+Olej rzepakowo-sojowy,  884,  0.0,  100.0,0.0 
+Olej rzepakowy, 884,  0.0,  100.0,0.0 
+Olej słonecznikowy,884,  0.0,  100.0,0.0 
+Olej sojowy, 884,  0.0,  100.0,0.0 
+Oliwa z oliwek, 882,  0.0,  99.6, 0.2 
+Oliwki,147,  1.4,  13.9, 4.1 
+Oliwki zielone marynowane, 125,  1.4,  12.7, 4.1 
+Omlet biszkoptowy ze szpinakiem,  151,  6.4,  10.4, 10.3 
+Orzechy arachidowe,560,  25.7, 46.1, 19.2 
+Orzechy laskowe,640,  14.4, 63.0, 14.9 
+Orzechy pistacjowe,589,  20.5, 48.5, 25.0 
+Orzechy włoskie,645,  16.0, 60.3, 18.0 
+Ostrygi,  85,5.0,  5.0,  5.0 
+Otręby pszenne, 185,  16.0, 4.6,  61.9 
+Ozór cielęcy,106,  17.1, 4.2,  0.0 
+Ozór wieprzowy, 165,  16.5, 11.1, 0.0 
+Paluszki solone,  385,  9.9,  4.9,  75.2 
+Papaja, 43,0.6,  0.1,  9.8 
+Papryka czerwona, 28,1.3,  0.5,  6.6 
+Papryka czerw. kons.,30,0.8,  1.5,  5.0 
+Papryka nadz. mięsem,160,  4.4,  10.6, 13.7 
+Papryka zielona,  18,1.1,  0.3,  4.6 
+Paprykarz Szczeciński,  178,  9.9,  11.9, 8.6 
+Parówki,342,  9.5,  34.3, 0.0 
+Parówki drobiowe, 259,  10.8, 22.4, 4.2 
+Parówki Morlinki, 223,  12.4, 19.1, 0.4 
+Pasternak, 80,1.2,  0.3,  18.0 
+Pasztet pieczony,  390,  17.0, 31.2, 13.5 
+Pasztet podlaski drob.,228,  6.7,  21.1, 3.6 
+Pasztet z mięsa miesz.,361,  15.0, 31.1, 6.6 
+Pączki, 376,  6.0,  16.0, 52.0 
+Pepsi. napój,42,0.0,  0.0,  10.4 
+Pestki dyni, 596,  29,46.7, 15.0 
+Pędy bambusa,34,2.6,  0.3,  5.2 
+Pędy bambusa. kons.,23,1.7,  0.4,  3.2 
+Pieczarka. suszona,331,  19.1, 2.1,  49.3 
+Pieczarka. świeża, 17,2.7,  0.4,  2.6 
+Pieczeń cielęca. duszona, 193,  20.1, 11.8, 1.7 
+Pieczeń rzymska,208,  14.4, 11.4, 12.7 
+Pieczeń wołowa duszona,155,  15.8, 9.5,  2.0 
+Pieczywo chrupkie Wasa,360,  12.0, 2.2,  73.0 
+Pieczywo tostowe,  305,  8.1,  4.7,  58.8 
+Pieczywo tost. raham, 273,  7.5,  4.2,  53.8 
+Piernik z bakaliami,341,  5.9,  9.8,  59.4 
+Pierniki alpejskie,367,  4.0,  9.7,  66.3 
+Pierniki beskidzkie,338,  3.5,  1.6,  77.3 
+Pierogi leniwe, 242,  14.5, 13.9, 15.1 
+Pierogi ruskie, 166,  5.6,  5.0,  25.7 
+Pierogi z mięsem,  219,  12.0, 11.6, 17.3 
+Pierogi z serem,238,  10.9, 9.9,  26.8 
+Pierogi z truskawkami, 240,  3.8,  11.4, 32.3 
+Pietruszka. korzeń,38,2.6,  0.5,  10.5 
+Pietruszka. naĂĽ,41,4.4,  0.4,  9.0 
+Pikling,215,  21.8, 14.3, 0.0 
+Piwo bezalkoholowe,27,0.2,  0.0,  5.2 
+Piwo ciemne pełne, 42,0.4,  0.0,  4.6 
+Piwo jasne mocne,  64,7.0,  0.0,  5.4 
+Piwo jasne pełne,  49,0.5,  0.0,  3.8 
+Pizza mięsno-ziołowa,  327,  16.1, 13.4, 36.8 
+Pizza z pieczarkami i cebulą,289,  12.0, 13.3, 32.1 
+Placki ziemniaczane,231,  3.6,  14.5, 23.6 
+Płastuga. świeża,  86,17.1, 1.9,  0.0 
+Płatki jęczmienne, 355,  9.8,  3.6,  79.4 
+Płatki kukurydziane,363,  6.9,  2.5,  83.6 
+Płatki owsiane, 366,  11.9, 7.2,  69.3 
+Płatki owsiane na mleku,  63,2.7,  2.3,  8.2 
+Płatki pszenne, 351,  9.0,  3.0,  81.0 
+Płatki żytnie,  343,  6.4,  3.2,  82.6 
+Polędwica sopocka, 165,  19.9, 9.1,  0.9 
+Polędwica wołowa piecz.,  168,  19.7, 9.9,  2.6 
+Polędwica z kurczaka,93,20.4, 1.2,  0.0 
+Pomarańcza, 44,0.9,  0.2,  11.3 
+Pomarańcze. dżem niskosłodzony,159,  0.3,  0.1,  39.2 
+Pomidor,  15,0.9,  0.2,  3.6 
+Popcorn bez tłuszczu,397,  12.0, 4.2,  77.9 
+Popcorn z tłuszczem, 518,  9.0,  28.1, 57.1 
+Por,24,2.2,  0.3,  5.7 
+Porzeczki białe,  33,1.0,  0.2,  13.1 
+Porzeczki czarne, 35,1.3,  0.2,  14.9 
+Porzeczki czerwone,  31,1.1,  0.2,  13.8 
+Potrawka z kurczaka, 148,  13.2, 9.0,  4.7 
+Poziomki, 33,0.8,  0.5,  8.3 
+Precelki, 385,  9.1,  3.5,  79.5 
+Przyprawa Maggi,  17,2.7,  0.0,  58.4 
+Przyprawa Jarzynka, 1.3,  0.2,  14.9 
+Pstrąg strumieniowy, 97,19.2, 2.1,  0.0 
+Pstrąg tęczowy,160,  18.9, 9.6,  0.0 
+Ptysie z bitą śmietaną,  346,  5.4,  25.0, 25.8 
+Pulpety mielone,  223,  18.7, 11.1, 13.4 
+Pumpernikiel,  252,  5.8,  2.0,  58.3 
+Pyzy,  210,  3.7,  6.2,  37.4 
+Pyzy z mięsem, 292,  7.8,  14.0, 36.2 
+Rabarbar, 9, 0.5,  0.1,  4.6 
+Risotto z mięsem, 229,  7.4,  11.8, 24.2 
+Risotto z mięsem i warzywami,  185,  6.6,  10.0, 18.3 
+Rodzynki suszone, 277,  2.3,  0.5,  71.2 
+Rolada biszkoptowa,  304,  6.9,  5.4,  56.8 
+Rolada wieprzowa, 412,  21.1, 32.5, 10.0 
+Ryż biały,344,  5.7,  0.7,  78.9 
+Ryż brązowy,322,  7.1,  1.9,  76.8 
+Ryż na mleku,  66,2.7,  2.1,  9.1 
+Ryż na sypko,  135,  2.4,  1.5,  28.4 
+Ryż preparowany,  361,  6.3,  1.6,  84.1 
+Ryż z jabłkami,152,  2.0,  2.1,  32.3 
+Rzepa, 26,1.1,  0.3,  8.2 
+Rzodkiewka, 14,1.0,  0.2,  4.4 
+Salami popularne, 568,  21.6, 53.7, 1.4 
+Salceson czarny,  336,  12.6, 32.0, 0.5 
+Salceson włoski,  318,  14.6, 29.3, 0.0 
+Sałata,14,1.4,  0.2,  2.9 
+Sałata zielona z olejem, 55,0.9,  4.7,  3.6 
+Sałatka jarzynowa z maj.,  192,  2.9,  16.5, 10.9 
+Sałatka z czerw. kapusty,  83,1.4,  6.5,  7.0 
+Sandacz świeży,  84,19.2, 0.7,  0.0 
+Sardyna świeża,  169,  20.6, 9.6,  0.0 
+Sardyna w oleju, 221,  24.1, 13.9, 0.0 
+Sardyna w pomidorach,162,  17.0, 9.9,  1.4 
+Sarnina,102,  20.8, 1.9,  0.4 
+Schab pieczony,  291,  30.4, 18.7, 0.7 
+Schab surowy wieprzowy, 174,  21.0, 10.0, 0.0 
+Schab wędzony,136,  25.0, 4.0,  0.0 
+Seler. korzeń,21,1.6,  0.3,  7.7 
+Ser Brie pełnotłusty,329,  19.8, 28.0, 0.2 
+Ser Camembert pełnotłusty, 291,  21.4, 23.0, 0.2 
+Ser Cheddar pełnotłusty,391,  27.1, 23.4, 0.1 
+Ser Edamski tłusty,  313,  36.1, 23.4, 0.1 
+Ser Ementaler pełnotłusty, 380,  28.8, 29.7, 0.1 
+Ser Feta,  215,  17.0, 16.0, 1.0 
+Ser ouda tłusty,316,  27.9, 22.9, 0.1 
+Ser Myśliwski pełnotłusty, 346,  25.5, 27.4, 0.1g
+Ser Parmezan, 452,  41.5, 32.0, 0.1 
+Ser Rokpol pełnotłusty, 363,  15.8, 9.5,  2.0 
+Ser Salami pełnotłusty, 351,  25.2, 28.1, 0.1 
+Ser topiony edamski, 298,  13.5, 27.0, 1.2 
+Ser twarogowy chudy, 99,19.8, 0.5,  3.5 
+Ser twarogowy półtłusty,133,  18.7, 4.7,  3.7 
+Ser twarogowy tłusty,175,  17.7, 10.1, 3.5 
+Ser Tylżycki pełnostłusty, 353,  26.1, 27.9, 0.1 
+Ser Tylżycki tłusty, 334,  27.8, 25.0, 0.1 
+Serca wieprzowe, 165,  16.9, 4.8,  0.0 
+Serek Fromage naturalny,379,  10.2, 37.1, 2.4 
+Serek Fromage z czosnkiem, 367,  10.0, 35.2, 4.0 
+Serek homogenizowany,161,  12.7, 11.0, 3.0 
+Serek homog. truskawkowy,  168,  15.3, 3.9,  17.7 
+Serek homog. waniliowy, 159,  16.8, 4.2,  13.3 
+Serek twarogowy ziarnisty, 101,  12.3, 4.3,  3.3 
+Sernik krakowski,325,  13.8, 13.4, 37.7 
+Sernik wiedeński,305,  12.5, 15.5, 31.5 
+Sernik z rodzynkami, 333,  13.9, 13.4, 39.7 
+Skrobia ziemniaczana,  343,  0.6,  0.1,  83.9 
+Słonecznik. nasiona,561,  24.4, 43.7, 24.6 
+Słonina, 797,  2.4,  89.0, 0.0 
+Smalec,  880,  0.0,  99.5, 0.0 
+Soczewica. suche nasiona, 327,  25.4, 3.0,  57.5 
+Soczewica. kiełki,  119,  9.0,  0.6,  22.1 
+Soja. kiełki,  141,  13.1, 6.7,  9.6 
+Soja. suche nasiona,382,  34.2, 19.6, 32.7 
+Sola świeża,83,17.5, 1.4,  0.0 
+Sok ananasowy, 48,0.3,  0.1,  11.4 
+Sok cytrynowy, 30,0.4,  0.3,  6.4 
+Sok rejpfrutowy,40,0.5,  0.1,  9.2 
+Sok jabłkowy,  42,0.1,  0.1,  10.0 
+Sok merchewkowo brzoskwiniowy,  44,0.5,  0.1,  11.3 
+Sok merchewkowo jabłkukowy, 46,0.5,  0.3,  12.3 
+Sok marchwiowy,43,0.4,  0.1,  11.3 
+Sok pomarańczowy,43,0.6,  0.1,  9.9 
+Sok pomidorowy,13,0.8,  0.1,  2.6 
+Sok wielowarzywny,  25,1.0,  0.3,  5.7 
+Sok z czarnej porzeczki,  53,0.3,  0.1,  12.7 
+Sprite. napój, 42,0.0,  0.0,  10.5 
+Stek wieprzowy,472,  21.7, 42.7, 1.5 
+Surówka wielowarzywna z jogurtem,36,1.7,  0.6,  7.0 
+Surówka z cykorii i jabłek,162,  1.0,  16.4, 3.8 
+Surówka z kapusty białej, 67,1.6,  4.7,  7.0 
+Surówka z kapusty kwaszonej, 68,0.9,  4.7,  7.5 
+Surówka z kapusty pekińskiej,94,1.6,  8.1,  6.0 
+Surówka z marchwi i jabłek,59,1.0,0.3,  16.5 
+Surówka z ogórków i pomidorów,32,1.1,  1.8,  3.6 
+Surówka z owoców,102,  0.5,  0.3,  25.9 
+Surówka z owoców i warzyw,147,  1.1,  14.3, 5.1 
+Surówka z papryki,  90,1.0,  7.5,  6.3 
+Surówka z pomidorów,14,0.8,  0.2,  14.0 
+Surówka z porów z jabłkami,140,  1.7,  12.5, 7.9 
+Surówka z rzodkiewki,  93,7.5,  3.5,  9.3 
+Surówka z selerów,  92,1.1,  7.5,  8.9 
+Surówka z selerów. jabłka i marchwi,60,0.9,  0.4,  16.5 
+Syrop truskawkowy,  262,  0.2,  0.1,  62.0 
+Szampan półsłodki. alkohol,97,0.2,  0.0,  7.0 
+Szampan wytrawny,83,0.1,  0.0,  3.4 
+Szczaw, 21,  1.1,0.8,  4.9 
+Szczupak świeży, 82,  18.4,  0.8,  0.0 
+Szczypiorek,  29,  4.1,0.8,  3.9 
+Szparagi,  18,  1.9,0.2,  3.7 
+Szpinak,16,  2.6,0.4,  3.0 
+Szpinak mrożony, 15,  2.3,0.4,  2.7 
+Szpinak zasmażany, 83,  3.7,6.1,  6.2 
+Sztuka mięsa wołowego,224, 30.6,  10.3, 3.2 
+Szynka delikatesowa z kurczaka, 123, 18.2,  5.6,  0.0 
+Szynka wiejska,  253, 17.1,  20.3, 0.9 
+Szynka wieprzowa otowana,  233, 16.4,  18.3, 1.0 
+Szynka wołowa otowana,  107, 20.9,  2.0,  1.1 
+Szynka z indyka, 84,  17.1,  1.6,  0.1 
+Szynka z udka kurczaka,  117, 17.2,  5.3,  0.0 
+Szynkówka wieprzowa,  191, 13.6,  14.7, 1.4 
+śliwki, 45,  0.6,0.2,  11.7 
+śliwki suszone,  267, 3.5,1.2,  68.9 
+śliwki dżem niskosłodzony,  153, 0.3,0.1,  37.9 
+śliwki dżem wysokosłodzony, 251, 0.3,0.1,  62.1 
+śliwki. powidła, 214, 1.0,0.2,  53.0 
+śledź solony, 218, 19.8,  15.4, 0.0 
+śledź świeży, 162, 16.3,  10.7, 0.0 
+śledź w oleju. konserwa, 343, 19.7,  29.4, 0.0 
+śledź w pomidorach. konserwa,177, 13.7,  12.8, 1.8 
+śmietana 12%, 133, 2.7,12.0, 3.9 
+śmietana 18%, 184, 2.5,18.0, 3.6 
+śmietanka do kawy 9%, 107, 2.8,9.0,  4.0 
+śmietanka kremowa 30%,287, 2.2,30.0, 3.1 
